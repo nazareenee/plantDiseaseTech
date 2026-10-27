@@ -1,0 +1,15 @@
+{
+  "dataset_name": "plantvillage_test",
+  "dataset_dir": "/kaggle/input/datasets/tahmidalbi/agroscan-kaggle-package/data/processed/test",
+  "num_images": 8215,
+  "accuracy_top1": 0.9956177723676202,
+  "accuracy_top3": 0.9998782714546561,
+  "precision_macro": 0.9935891166187907,
+  "recall_macro": 0.994479416783112,
+  "f1_macro": 0.994013331087835,
+  "low_confidence_rejection_rate_lt_0_60": 0.0015824710894704807,
+  "possible_rate_0_60_to_0_80": 0.0023128423615337798,
+  "likely_rate_gte_0_80": 0.9961046865489958,
+  "mean_confidence": 0.997400993097866,
+  "median_confidence": 0.9999808073043823
+}
